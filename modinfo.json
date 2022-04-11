@@ -1,0 +1,13 @@
+{
+  "name": "RainProofFires",
+  "author": "John Callow",
+  "description": "Fires won't go out due to rain",
+  "version": "1.0",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "updateUrl": "https://www.greenhellmodding.com/api/v1/mods/YOUR-MOD-SLUG-HERE/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
